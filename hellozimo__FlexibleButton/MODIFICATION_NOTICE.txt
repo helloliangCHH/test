@@ -1,0 +1,5 @@
+Modified source version for local code-analysis evaluation.
+Upstream: https://github.com/hellozimo/FlexibleButton
+Original commit: 05405a51c2c1ef1be7fa52bc8b5e917e4a17be98
+Original license and copyright notices remain applicable.
+Modification records are maintained separately by the experiment administrator.
